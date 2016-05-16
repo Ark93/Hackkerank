@@ -1,0 +1,4 @@
+BasicProbabilityPuzzles5
+
+#http://mathworld.wolfram.com/CircularPermutation.html
+#http://math.stackexchange.com/questions/1016151/probability-that-ken-and-john-set-next-to-each-other
